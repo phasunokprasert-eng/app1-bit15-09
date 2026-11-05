@@ -8,7 +8,7 @@ export default function App(){
         <View style={myStyle.container}>
 
             {/* แสดงข้อความ */}
-        <Text style={myStyle.title}>Phasu</Text>
+        <Text style={myStyle.title}>Phasu Nokprasert</Text>
 
         {/* แสดงภาพจากไฟล์ */}
         <Image 
