@@ -24,7 +24,7 @@ export default function App() {
             <Text>ภสุ นกประเสริฐ🦤</Text>
 
             <View style={myStyle.container1}>
-                <Text>ห้อง BIT.1/5 เลขที่9</Text>``
+                <Text>ห้อง BIT.1/5 เลขที่9</Text>
                 <Text>Email:Phasu.Nokprasert@e-tech.ac.th</Text>
                 <Text>Phone: 081-xxx-xxx</Text>
 
